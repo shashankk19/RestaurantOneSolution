@@ -1,0 +1,28 @@
+2022-01-28 15:01:38,994 WARN  [main] org.springframework.boot.test.json.DuplicateJsonObjectContextCustomizerFactory$DuplicateJsonObjectContextCustomizer : 
+
+Found multiple occurrences of org.json.JSONObject on the class path:
+
+	jar:file:/C:/Users/Sai%20Shashank/.m2/repository/com/vaadin/external/google/android-json/0.0.20131108.vaadin1/android-json-0.0.20131108.vaadin1.jar!/org/json/JSONObject.class
+	jar:file:/C:/Users/Sai%20Shashank/.m2/repository/org/json/json/20210307/json-20210307.jar!/org/json/JSONObject.class
+
+You may wish to exclude one of them to ensure predictable runtime behavior
+
+2022-01-28 15:01:41,790 INFO  [main] org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor : Initializing ExecutorService 'applicationTaskExecutor'
+2022-01-28 15:01:43,228 INFO  [main] org.springframework.boot.test.mock.web.SpringBootMockServletContext : Initializing Spring TestDispatcherServlet ''
+2022-01-28 15:01:43,233 INFO  [main] org.springframework.test.web.servlet.TestDispatcherServlet : Initializing Servlet ''
+2022-01-28 15:01:43,236 INFO  [main] org.springframework.test.web.servlet.TestDispatcherServlet : Completed initialization in 2 ms
+2022-01-28 15:01:43,611 INFO  [SpringContextShutdownHook] org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor : Shutting down ExecutorService 'applicationTaskExecutor'
+2022-01-28 15:06:53,546 WARN  [main] org.springframework.boot.test.json.DuplicateJsonObjectContextCustomizerFactory$DuplicateJsonObjectContextCustomizer : 
+
+Found multiple occurrences of org.json.JSONObject on the class path:
+
+	jar:file:/C:/Users/Sai%20Shashank/.m2/repository/com/vaadin/external/google/android-json/0.0.20131108.vaadin1/android-json-0.0.20131108.vaadin1.jar!/org/json/JSONObject.class
+	jar:file:/C:/Users/Sai%20Shashank/.m2/repository/org/json/json/20210307/json-20210307.jar!/org/json/JSONObject.class
+
+You may wish to exclude one of them to ensure predictable runtime behavior
+
+2022-01-28 15:06:56,247 INFO  [main] org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor : Initializing ExecutorService 'applicationTaskExecutor'
+2022-01-28 15:06:57,494 INFO  [main] org.springframework.boot.test.mock.web.SpringBootMockServletContext : Initializing Spring TestDispatcherServlet ''
+2022-01-28 15:06:57,499 INFO  [main] org.springframework.test.web.servlet.TestDispatcherServlet : Initializing Servlet ''
+2022-01-28 15:06:57,502 INFO  [main] org.springframework.test.web.servlet.TestDispatcherServlet : Completed initialization in 2 ms
+2022-01-28 15:06:57,891 INFO  [SpringContextShutdownHook] org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor : Shutting down ExecutorService 'applicationTaskExecutor'
